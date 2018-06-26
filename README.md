@@ -3,7 +3,7 @@
 创建目的：年纪大了，老记不住
 
 # 服务器端
-
+找个海外主机当服务器，比如Linode, Ucloud海外都可以。
 ## 安装
 Debian / Ubuntu:
 
@@ -22,6 +22,9 @@ pip install shadowsocks
 
 * 解压
 * 用管理员身份运行 yingwa.exe
-* 设置见网页
-    IP:/ PORT:/ Password:/ Encryption: aes-256-cfb
+* 对照着服务器端的设置
+** IP:/ PORT:/ Password:/ Encryption: aes-256-cfb
 * 点击 connect 就可以了。（最好save一下，以后就不用输入上面的内容了）
+
+# 高难度问题
+如果一下不好用怎么办。可以再加一层。
